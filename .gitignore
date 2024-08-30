@@ -1,0 +1,9 @@
+build/
+results/
+libs/
+.vscode/
+
+/datasets/
+
+*~
+\#*

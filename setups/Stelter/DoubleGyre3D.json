@@ -1,0 +1,17 @@
+{
+    "dataset": "DoubleGyre3D",
+    "method": "Stelter",
+    "save_dir": "./results/Stelter/DoubleGyre3D",
+
+    "domain": null,
+    "t": 0.0,
+    "tau": 5.0,
+    "steps": 100,
+
+    "full_init_period": 5,
+    "min_ridge_strength": 10.0,
+    "elliptic_dis_fac": 4.0,
+    "space_res": [ 256, 1280, 128 ],
+    "voxel_res": [ 32, 160, 16 ],
+    "par_init_res": [ 32, 160, 16 ]
+}

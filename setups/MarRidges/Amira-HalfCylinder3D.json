@@ -1,0 +1,37 @@
+{
+    "dataset": "Amira-HalfCylinder3D",
+    "method": "Marching Ridges",
+    "save_dir": "./results/MarRidges/Amira-HalfCylinder3D",
+
+    "domain": [[-0.4, 5.0], [-1.4, 1.4], [-0.45, 0.45]],
+    "t": 13.0,
+    "tau": 2.0,
+    "steps": 1,
+
+    "min_ridge_strength": 1000.0,
+    "space_res": [ 1152, 384, 192 ],
+
+    "amira_files": [
+        "../datasets/halfcylinder3d/halfcylinder-13.00.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.10.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.20.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.30.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.40.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.50.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.60.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.70.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.80.am",
+        "../datasets/halfcylinder3d/halfcylinder-13.90.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.00.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.10.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.20.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.30.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.40.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.50.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.60.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.70.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.80.am",
+        "../datasets/halfcylinder3d/halfcylinder-14.90.am",
+        "../datasets/halfcylinder3d/halfcylinder-15.00.am"
+    ]
+}

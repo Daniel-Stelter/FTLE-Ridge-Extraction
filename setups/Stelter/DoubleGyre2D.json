@@ -1,0 +1,20 @@
+{
+    "dataset": "DoubleGyre2D",
+    "method": "Stelter",
+    "save_dir": "./results/Stelter/DoubleGyre2D",
+
+    "domain": null,
+    "t": 0.0,
+    "tau": 15.0,
+    "steps": 150,
+
+    "full_init_period": 5,
+    "min_ridge_strength": 10.0,
+    "elliptic_dis_fac": 4.0,
+    "space_res": [ 4096, 2048 ],
+    "voxel_res": [ 512, 256 ],
+    "par_init_res": [ 512, 256 ],
+
+    "img_res": [ 2048, 1024 ],
+    "rendered_domain": null
+}

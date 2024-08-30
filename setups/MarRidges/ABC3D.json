@@ -1,0 +1,13 @@
+{
+    "dataset": "ABC3D",
+    "method": "Marching Ridges",
+    "save_dir": "./results/MarRidges/ABC3D",
+
+    "domain": null,
+    "t": 0.0,
+    "tau": 5.0,
+    "steps": 250,
+
+    "min_ridge_strength": 1.0,
+    "space_res": [ 256, 256, 256 ]
+}

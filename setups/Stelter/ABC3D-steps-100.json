@@ -1,0 +1,17 @@
+{
+    "dataset": "ABC3D",
+    "method": "Stelter",
+    "save_dir": "./results/Stelter/ABC3D-steps-100",
+
+    "domain": null,
+    "t": 0.0,
+    "tau": 5.0,
+    "steps": 100,
+
+    "full_init_period": 2,
+    "min_ridge_strength": 1.0,
+    "elliptic_dis_fac": 4.0,
+    "space_res": [ 256, 256, 256 ],
+    "voxel_res": [ 32, 32, 32 ],
+    "par_init_res": [ 32, 32, 32 ]
+}

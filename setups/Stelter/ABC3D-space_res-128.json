@@ -1,0 +1,17 @@
+{
+    "dataset": "ABC3D",
+    "method": "Stelter",
+    "save_dir": "./results/Stelter/ABC3D-space_res-128",
+
+    "domain": null,
+    "t": 0.0,
+    "tau": 5.0,
+    "steps": 250,
+
+    "full_init_period": 5,
+    "min_ridge_strength": 1.0,
+    "elliptic_dis_fac": 4.0,
+    "space_res": [ 128, 128, 128 ],
+    "voxel_res": [ 16, 16, 16 ],
+    "par_init_res": [ 16, 16, 16 ]
+}

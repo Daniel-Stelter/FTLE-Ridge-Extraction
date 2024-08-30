@@ -1,0 +1,13 @@
+{
+    "dataset": "DoubleGyre3D",
+    "method": "Marching Ridges",
+    "save_dir": "./results/MarRidges/DoubleGyre3D",
+
+    "domain": null,
+    "t": 0.0,
+    "tau": 5.0,
+    "steps": 1,
+
+    "min_ridge_strength": 10.0,
+    "space_res": [ 256, 1280, 128 ]
+}
